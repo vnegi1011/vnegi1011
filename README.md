@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there, I'm vnegi1011
 
-<!--
-**vnegi1011/vnegi1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer (2.5 years) | Spring Boot Developer (1 year) | Aspiring Full-Stack Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+- **Languages:** Dart, Java
+- **Frameworks/Libraries:** Flutter, Spring Boot, Microservices
+- **Backend:** REST APIs, JWT Authentication
+- **Database:** PostgreSQL
+- **DevOps:** Docker, Nginx, Git, GitHub, CI/CD basics
+
+---
+
+### 🌟 Featured Projects
+
+- **BeEasy:** Task management app
+- **CSB Srinagar:** Restaurant ordering app for Chai Sutta Bar franchise
+- **Restaurant POS App:** Handles offline + online orders and billing system
+
+---
+
+### 🔗 Connect with Me
+
+[LinkedIn](https://linkedin.com/in/vnegi1011)
+
+---
+
+### 👀 Fun Facts & Interests
+
+- Enjoys playing chess ♟️
+- Keen on learning new technologies
+- Prefers a simple lifestyle
+
+---
+
+_Always open to collaboration and new opportunities. Let’s build something amazing together!_
