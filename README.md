@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm vnegi1011
+# 👋 Hi there, I'm Vipin Negi
 
-**Flutter Developer (2.5 years) | Spring Boot Developer (1 year) | Aspiring Full-Stack Developer**
+**Flutter Developer | Spring Boot Developer | Aspiring Full-Stack Developer**
 
 ---
 
